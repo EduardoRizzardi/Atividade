@@ -7,8 +7,8 @@ package eduardoavaliacaogit;
 
 /**
  *
- \\nnnnnnnnnnnnnnnnnnn
+ * @author 182200153
  */
-public class Teste {
+public class NovaTela {
     
 }
